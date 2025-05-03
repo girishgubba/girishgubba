@@ -5,7 +5,7 @@
 
 - 🔭 I worked on [FOODYA](https://www.figma.com/proto/8ZX4aJ8tFOn98wXrcL01I0/FOODYA-2?page-id=0%3A1&node-id=1-3&node-type=CANVAS&viewport=521%2C666%2C0.28&t=BDOZnxO9iRhhEUKw-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3)
 
-- 🌱 I’m currently learning **DSA,FULLSTACK,DATASCIENCE**
+- 🌱 I’m currently learning **DSA,FULLSTACK,DATASCIENCE,JAVA**
 
 - 👯 I have collaborated for the [FIRE ALARMING SYSTEM USING IoT COMPONENTS](https://github.com/girishgubba/Fire_Alarming_System_Using_IoT_Components)
 
